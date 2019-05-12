@@ -23,15 +23,15 @@ Then include the following line in your HTML code.
 
 
 ```HTML
-<link href="https://raw.githubusercontent.com/jagannathBhat/parallelScrolling/master/parallelScrolling.min.css" />
-<script defer src="https://raw.githubusercontent.com/jagannathBhat/parallelScrolling/master/parallelScrolling.min.js"></script>
+<link href="https://jagannathbhat.github.io/parallelScrolling/parallelScrolling.min.css" />
+<script defer src="https://jagannathbhat.github.io/parallelScrolling/parallelScrolling.min.js"></script>
 ````
 
 
 #### Download
 
 
-Download the stylesheet from [here](https://raw.githubusercontent.com/jagannathBhat/parallelScrolling/master/parallelScrolling.min.css) and the javascript file from [here](https://raw.githubusercontent.com/jagannathBhat/parallelScrolling/master/parallelScrolling.min.js). Then include the following line in your HTML code.
+Download the stylesheet from [here](https://jagannathbhat.github.io/parallelScrolling/parallelScrolling.min.css) and the javascript file from [here](https://jagannathbhat.github.io/parallelScrolling/parallelScrolling.min.js). Then include the following line in your HTML code.
 
 
 ```HTML
@@ -49,7 +49,7 @@ Add the class `.slide` to the HTML elements you want to apply the parallel scrol
 ## Demo
 
 
-[Click Here](https://rawgit.com/jagannathBhat/rippleEffect/master/demo/index.html)
+[Click Here](https://jagannathbhat.github.io/parallelScrolling/demo/index.html)
 
 Code for the demo can be found in the demo directory.
 
