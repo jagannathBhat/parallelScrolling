@@ -10,6 +10,11 @@ html, body {
 	width: 100%;
 }
 
+a {
+	color: #424242;
+	cursor: pointer;
+}
+
 h1 {
 	font-size: 3.6em;
 	font-weight: 300;
