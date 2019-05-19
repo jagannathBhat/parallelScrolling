@@ -10,33 +10,20 @@ html, body {
 	width: 100%;
 }
 
-h1, h2, h4, h5 {
+h1 {
+	font-size: 3.6em;
 	font-weight: 300;
 	margin: 0px;
-}
-
-h1 {
-	font-size: 4em;
 	padding: 12px 0px 12px 0px;
 }
 
-h2 {
-	font-size: 3em;
-	padding: 42px 0px;
-}
-
-h4 {
-	font-size: 2em;
-	padding: 24px 0px;
-}
-
-h5 {
-	font-size: 1.5em;
+p {
+	font-size: 1.2em;
 	font-style: italic;
 	padding: 12px 0px;
 }
 
-.slide .table {
+.slide .centerizer {
 	background-color: #FAFAFA;
 	color: #424242;
 	display: table;
@@ -44,12 +31,12 @@ h5 {
 	width: 100%;
 }
 
-.slide:nth-child(even) .table {
+.slide:nth-child(even) .centerizer {
 	background-color: #424242;
 	color: #FAFAFA;
 }
 
-.cell {
+.centerizer-content {
 	display: table-cell;
 	height: 100%;
 	text-align: center;
